@@ -8,13 +8,13 @@ body {
 	background: #fff url(../img/fundo.png) repeat-x;
 }
 
-#container {
+header {
 	width: 750px;
 	margin:  0 auto; /*centraliza o conteudo*/
 	/*border:  1px solid red;*/
 }
 
-#topo {
+nav {
 	height: 150px; /*altura*/
 	background: url(../img/detalhe-topo.png) no-repeat right top;
 	padding-top: 25px;
