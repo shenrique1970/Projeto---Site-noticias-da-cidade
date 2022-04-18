@@ -76,6 +76,8 @@ body.fotos #navegacao a#fotos {
 }
 
 #conteudo {
+	width: 750px;
+	margin:  0 auto;
 	margin-top: 60px;
 	/* border:  1px solid red; */
 }
